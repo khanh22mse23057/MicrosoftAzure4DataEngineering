@@ -1,0 +1,92 @@
+1.Question 1
+Moving resources such as servers and services from an on-premises environment to a cloud-based solution will have a benefit on which of the following.
+
+Both capital and operational expenditure
+Correct
+One benefit of Cloud environments requires no capital investment. T- You pay for a service or product as you use it i.e. pay-as-you-go pricing.  Moving servers and services to the cloud also reduces operational costs.
+
+2.Question 2
+Which of the following data processing frameworks are used by data engineers to ingest data from an on-premises database to an on-premises data warehouse?
+
+Extract, Transform, and Load (ETL)
+Correct
+Extract, Transform and Load (ETL) is a typical process for ingesting data from an on-premises database to an on-premises data warehouse.
+
+3.Question 3
+Unstructured data differs from Structured Data in many features. 
+
+Which of the following are features of Unstructured data?
+
+Select all options that apply.
+
+Native format
+Correct
+Native Format is a feature of unstructured data.
+
+
+Commonly stored in data lakes
+Correct
+Storage in Data Lakes is a feature of unstructured data
+
+
+Schema-on-read.
+Correct
+Schema on read is a feature of unstructured data
+
+
+4.Question 4
+Data Engineers may sometimes perform ETL process when processing data. The extract may come from many sources including databases, files, and streams. These data sources can have unique data formats including which of the following?
+
+Choose all that apply.
+
+Structured
+Unstructured
+Correct
+Each data source has unique data formats one of which and can be structured, semi-structured, or unstructured.
+
+
+Semi-structured
+Correct
+Each data source has unique data formats one of which and can be structured, semi-structured, or unstructured.
+
+5.Question 5
+The Extract Load and Transform (ELT) process has which of the following benefits.
+Select all options that apply.
+
+Data can be stored in its original format.
+Correct
+A benefit of ELT is that you can store data in its original format, be it JSON, XML, PDF, or images.
+
+Reduces the time required to load the data into a destination system.
+Correct
+In an ELT process, data is extracted and loaded in its native format. This change reduces the time required to load the data into a destination system. The change also limits resource contention on the data sources.
+
+6.Question 6
+A Data Engineers scope of work includes the process of getting, ingesting, transforming, validating, and cleaning up data to meet business requirements. Which of the following terms describe this process?
+
+Data Wrangling
+
+Correct
+A data engineer's scope of work goes well beyond looking after a database and the server where it's hosted. Data engineers must also get, ingest, transform, validate, and clean up data to meet business requirements. 
+
+7. Question 7
+Which data processing framework will a data engineer use to ingest data onto cloud data platforms in Azure?
+
+Extract, transform, and load (ETL)
+
+Correct
+ELT is a typical process for ingesting data from an on-premises database into the cloud.
+
+8.Question 8
+Data Engineers may sometimes perform ETL process when processing data. The extract may come from many sources including databases, files, and streams. As part of the Extract process which of the following information must be supplied?
+Select all options that apply.
+
+Define the Data
+Correct
+This is an initial step to specify the source data. 
+
+
+Define the Data Source
+Correct
+During the extraction process, Data Engineers must define the Data Source.
+
